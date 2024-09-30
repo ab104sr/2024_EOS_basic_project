@@ -39,7 +39,6 @@ class MyHomePage extends StatelessWidget {
         children: [
           Container(
             height: 200,
-            color: Colors.lightGreen.withOpacity(0.3),
             padding: EdgeInsets.all(25),
             child: Row(
               children: [
